@@ -16,8 +16,8 @@ build:
 
 test:
 
-lint:
+lint: lint-all
 
 fmt:
 
-include Makefile.common.mk
+include common/Makefile.common.mk
