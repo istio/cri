@@ -20,4 +20,6 @@ lint: lint-all
 
 fmt:
 
+gen-check:
+
 include common/Makefile.common.mk
